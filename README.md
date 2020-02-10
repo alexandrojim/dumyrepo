@@ -1,2 +1,2 @@
 # dumyrepo
-Simple demo repo
+Simple demo repo using branches
